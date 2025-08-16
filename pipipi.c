@@ -1,4 +1,4 @@
-// programa de media do aluno
+ // programa de media do aluno
 
 #include <stdio.h>
 #include <stdlib.h>
